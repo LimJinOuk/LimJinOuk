@@ -2,8 +2,11 @@
 <h1 align = ""> LimJinOuk's Github </h1>
 
 <!-- Details-->
-<h3 align = ""> 🛠️ Tech Stack </h3>
-<h4>Language</h4>
+<ul>
+ <li>
+  <h4>🛠️ Tech Stack</h4>
+ </li>
+</ul>
 <div>
  &nbsp &nbsp<img src = "https://img.shields.io/badge/Python-8A2BE2"/>
 </div>
