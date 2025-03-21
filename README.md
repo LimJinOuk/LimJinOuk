@@ -2,6 +2,27 @@
 <h1 align = ""> LimJinOuk's Github </h1>
 
 <!-- Details-->
+<h3>🏆 Career</h3>
+<table>
+ <tr>
+  <th scope="col">Type</td>
+  <th scope="col">Date</td>
+  <th scope="col">Name</td>
+  <th scope="col">Organization</td>
+ </tr>
+ <tr>
+  <td>University</td>
+  <td>2022.03 ~ </td>
+  <td>Computer Science</td>
+  <td>SangMyung Univ.</td>
+ </tr>
+ <tr>
+  <td>Project</td>
+  <td>2025.03~</td>
+  <td>SCA</td>
+  <td>SCA</td>
+ </tr>
+</table>
 <h3>🛠️ Tech Stack</h3>
 <ul>
  <li>
