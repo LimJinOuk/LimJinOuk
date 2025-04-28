@@ -64,6 +64,7 @@
  &nbsp &nbsp<img src = "https://img.shields.io/badge/Maven-bf0000?logo=apachemaven&logoColor=FFFFFF"/>
 </div>
 
+<!-- Server관련 , Apach-Tomcat , Nginx , Linux-Ubuntu-->
 <ul>
  <li>
   <h4>Server</h4>
@@ -71,6 +72,8 @@
 </ul>
 <div>
  &nbsp &nbsp<img src = "https://img.shields.io/badge/Apache_Tomcat-ffde59?logo=apachetomcat&logoColor=FFFFFF"/>
+   &nbsp&nbsp<img src = "https://img.shields.io/badge/Nginx-2db400?logo=nginx"/>
+  &nbsp&nbsp<img src = "https://img.shields.io/badge/Linux_Ubuntu_Server-DE4815?logo=ubuntu"/>      
 </div>
 <ul>
  <li>
