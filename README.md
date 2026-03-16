@@ -96,12 +96,3 @@
  &nbsp &nbsp<img src = "https://img.shields.io/badge/Git-f05033?logo=git&logoColor=FFFFFF"/>&nbsp<img src = "https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=FFFFFF"/>
 </div>
 
-<ul>
- <li>
-  <h4>Deploy</h4>
- </li>
-</ul>
-<div>
- &nbsp &nbsp<img src = "https://img.shields.io/badge/AWS-black.svg?logo=amazonwebservices&logoColor=FFFFFF"/>&nbsp<img src = "https://img.shields.io/badge/EC2-f58633?logo=amazonec2&logoColor=FFFFFF"/>&nbsp<img src = "https://img.shields.io/badge/RDS-5a97cb?logo=amazonrds&logoColor=FFFFFF"/>
-</div>
-
