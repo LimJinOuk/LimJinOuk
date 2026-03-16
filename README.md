@@ -17,9 +17,15 @@
   <td>SangMyung Univ.</td>
  </tr>
  <tr>
-  <td>Project</td>
+  <td>Team - Project</td>
   <td>2025.03~</td>
   <td>SCA</td>
+  <td>In SangMyungUniv. with my Friends</td>
+ </tr>
+ <tr>
+  <td>Team - Project</td>
+  <td>2026.01~</td>
+  <td>LoaKong</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
 </table>
