@@ -23,6 +23,12 @@
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
   <tr>
+  <td>Team - HackaThon</td>
+  <td>2025.06.27. ~ 2025.06.29 </td>
+  <td>Team SCA</td>
+  <td>Us:Code 해커톤 in 의성군</td>
+ </tr>
+  <tr>
   <td>Solo - Project</td>
   <td>2026.01. ~ 2026.02. </td>
   <td>출석 체크 어플</td>
