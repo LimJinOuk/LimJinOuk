@@ -18,13 +18,19 @@
  </tr>
  <tr>
   <td>Team - Project</td>
-  <td>2025.03~</td>
+  <td>2025.03 ~ 2026.01.</td>
   <td>SCA</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
+  <tr>
+  <td>Solo - Project</td>
+  <td>2026.01. ~ 2026.02. </td>
+  <td>출석 체크 어플</td>
+  <td>제민통합내과정형외과</td>
+ </tr>
  <tr>
   <td>Team - Project</td>
-  <td>2026.01~</td>
+  <td>2026.01 ~ </td>
   <td>LoaKong</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
