@@ -26,7 +26,7 @@
   <td>Team - HackaThon</td>
   <td>2025.06.27. ~ 2025.06.29 </td>
   <td>Team SCA</td>
-  <td>Us:Code 해커톤 in 의성군</td>
+  <td>Us:Code 해커톤 in 의성군 (15위 / 25개 팀)</td>
  </tr>
   <tr>
   <td>Solo - Project</td>
