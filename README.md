@@ -7,7 +7,7 @@
  <tr>
   <th scope="col">Type</td>
   <th scope="col">Date</td>
-  <th scope="col">Name</td>
+  <th scope="col">Name : Description</td>
   <th scope="col">Organization</td>
  </tr>
  <tr>
@@ -18,26 +18,26 @@
  </tr>
  <tr>
   <td>Team - Project</td>
-  <td>2025.03 ~ 2026.01.</td>
-  <td>SCA</td>
+  <td>2025.03. ~ 2026.01.</td>
+  <td>smulet : 상명대 컴퓨터과학과 학생들을 타겟으로 한 시간표 생성 및 졸업요건 확인 사이트.</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
   <tr>
   <td>Team - HackaThon</td>
-  <td>2025.06.27. ~ 2025.06.29 </td>
-  <td>Team SCA</td>
-  <td>Us:Code 해커톤 in 의성군 (15위 / 25개 팀)</td>
+  <td>2025.06.27. ~ 2025.06.29. </td>
+  <td>Team SCA : 구글 AI(Gemini 2.5 Flash)를 이용해 사용자에게 미션과 보상을 주는 의성군 관광 로드맵 사이트</td>
+  <td>Us:Code 해커톤 in 의성군 (팀 순위 15위 / 25개 팀)</td>
  </tr>
   <tr>
   <td>Solo - Project</td>
   <td>2026.01. ~ 2026.02. </td>
-  <td>출석 체크 어플</td>
+  <td>출석 체크 어플 : NFC Card를 이용한 출퇴근 기록 저장 어플.</td>
   <td>제민통합내과정형외과</td>
  </tr>
  <tr>
   <td>Team - Project</td>
   <td>2026.01 ~ </td>
-  <td>LoaKong</td>
+  <td>LoaKong : (주) Smile Gate 社에서 배포한 MMO RPG 게임 Lost-Ark에 대한 전투정보 지원 및 데미지 시뮬레이션 사이트.</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
 </table>
