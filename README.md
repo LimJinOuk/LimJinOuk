@@ -40,6 +40,12 @@
   <td>LoaKong : (주) Smile Gate 社에서 배포한 MMO RPG 게임 Lost-Ark에 대한 전투정보 지원 및 데미지 시뮬레이션 사이트.</td>
   <td>In SangMyungUniv. with my Friends</td>
  </tr>
+  <tr>
+  <td>Team - HackaThon</td>
+  <td>2026.07.21. ~ 2026.07.23. </td>
+  <td>Team SCA : </td>
+  <td>CodeGate AI StartUp Hackathon in 삼성역</td>
+ </tr>
 </table>
 <h3>🛠️ Tech Stack</h3>
 <ul>
