@@ -43,7 +43,7 @@
   <tr>
   <td>Team - HackaThon</td>
   <td>2026.07.21. ~ 2026.07.23. </td>
-  <td>Team SCA : </td>
+  <td>Team SCA : 건강기록부를 올리면 AI가 건강을 요약하고 식습관과 운동을 추천해주며, 병원 통합 예약 기능을 갖춘 의사 , 환자 모두 사용 가능한플랫폼.  </td>
   <td>CodeGate AI StartUp Hackathon in 삼성역</td>
  </tr>
 </table>
