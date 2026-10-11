@@ -46,6 +46,13 @@
   <td>Team SCA : 건강기록부를 올리면 AI가 건강을 요약하고 식습관과 운동을 추천해주며, 병원 통합 예약 기능을 갖춘 의사 , 환자 모두 사용 가능한플랫폼.  </td>
   <td>CodeGate AI StartUp Hackathon in 삼성역</td>
  </tr>
+ </tr>
+  <tr>
+  <td>Team - LoAKong</td>
+  <td>2025.11.01. ~ 2026.10.03. </td>
+  <td>스마일게이트의 게임 "LostArk"의 전투 정보실 및 인게임 데미지 시뮬레이션을 포함한 여러 도구 사이트 제작  </td>
+  <td>사업자명 : "LoAKong"</td>
+ </tr>
 </table>
 <h3>🛠️ Tech Stack</h3>
 <ul>
