@@ -53,6 +53,13 @@
   <td>스마일게이트의 게임 "LostArk"의 전투 정보실 및 인게임 데미지 시뮬레이션을 포함한 여러 도구 사이트 제작  </td>
   <td>사업자명 : "LoAKong"</td>
  </tr>
+ </tr>
+  <tr>
+  <td>Solo - 파일 도란스</td>
+  <td>2026.10.11. ~  </td>
+  <td> Sony A7M5로 찍은 사진 파일 변환 및 문서 변환을 위한 웹 사이트 제작 </td>
+  <td> - </td>
+ </tr>
 </table>
 <h3>🛠️ Tech Stack</h3>
 <ul>
